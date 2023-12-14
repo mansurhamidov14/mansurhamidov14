@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Mansur!
 - 🇦🇿 My homeland is Baku, Azerbaijan
 - 🏠 I don't have stable place of living . Mostly moving around 🇺🇦 Kyiv, 🇺🇦 Kryvyi Rih and 🇦🇿 Baku
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="24" alt="Angular"> <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" height="24" alt="Svelte">
 - 💻 Actively using: <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="24" alt="Typescript"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="24" alt="Javascript"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="24" alt="ReactJS"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="24" alt="PHP"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="24" alt="MySQL">
